@@ -1,1 +1,1 @@
-# Alura-Geek-Challenge-G7
+AluraGeek es un reto  propuesto por el curso Front End G7 - ONE.  AluraGeek es un sitio de comercio electrónico  dirigido a los fanáticos de la cultura geek y nerd. El proyecto cuenta con una interfaz atractiva que permite a los usuarios explorar una variedad de productos, como juegos, figuras de acción y más.
